@@ -6,6 +6,25 @@ A lightweight, mobile-first personal CRM to manage contacts, interactions, deals
 
 ---
 
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="Screenshots/dashboard.png" width="200"/></td>
+    <td><img src="Screenshots/contacts.png" width="200"/></td>
+    <td><img src="Screenshots/contact_detail.png" width="200"/></td>
+    <td><img src="Screenshots/deals.png" width="200"/></td>
+  </tr>
+  <tr>
+    <td align="center">Dashboard</td>
+    <td align="center">Contacts</td>
+    <td align="center">Contact Detail</td>
+    <td align="center">Deals</td>
+  </tr>
+</table>
+
+---
+
 ## Features
 
 - **Contacts** — Add, edit, search, and tag people you know
