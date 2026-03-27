@@ -10,10 +10,10 @@ A lightweight, mobile-first personal CRM to manage contacts, interactions, deals
 
 <table>
   <tr>
-    <td><img src="Screenshots/dashboard.png" width="200"/></td>
-    <td><img src="Screenshots/contacts.png" width="200"/></td>
-    <td><img src="Screenshots/contact_detail.png" width="200"/></td>
-    <td><img src="Screenshots/deals.png" width="200"/></td>
+    <td><img src="Screenshots/dashboard.PNG" width="200"/></td>
+    <td><img src="Screenshots/contacts.PNG" width="200"/></td>
+    <td><img src="Screenshots/contact_detail.PNG" width="200"/></td>
+    <td><img src="Screenshots/deals.PNG" width="200"/></td>
   </tr>
   <tr>
     <td align="center">Dashboard</td>
