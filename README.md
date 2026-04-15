@@ -2,7 +2,7 @@
 
 A lightweight, mobile-first personal CRM to manage contacts, interactions, deals, and follow-up reminders. Built entirely for iPhone with a clean native feel.
 
-> **Vibe-coded with [Claude Code](https://claude.ai/claude-code)** by Anthropic — an AI-powered CLI that writes, edits, builds, and debugs code directly in your terminal.
+> **Vibe-coded with [Claude Code](https://claude.ai)** by Anthropic — an AI-powered CLI that writes, edits, builds, and debugs code directly in your terminal.
 
 ---
 
